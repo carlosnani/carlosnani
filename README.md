@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Hello Everyone 👋
- I'm a Designer and Dev Front End from Rio de Janeiro / :Brazil: 🤓
+ I'm a Designer and Dev Front End from Rio de Janeiro / :brazil: 🤓
 I **love 😍 Technology**  🤖  and learning **more** and  **more**!!!
 
 Now I'm focus in **HTML**, **CSS**, **Javascript** and  **React**, but I love use a lot of tools.
